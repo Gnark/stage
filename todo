@@ -1,0 +1,8 @@
+TODO list :
+
+optimiser les accès à la base de données en utilisant la fonction find
+
+changer de couleur/style quand une données qui changent atteint un seuil (ex : crédit de carte arrivant à 0/ date d'échéance proche)
+
+intégrer du CSS pour que ça soit plus beau
+
